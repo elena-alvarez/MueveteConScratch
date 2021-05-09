@@ -1,0 +1,2 @@
+# MueveteConScratch
+Este proyecto tiene como objetivo realizar un guion de prácticas para que el alumnado de 4º de E.S.O. realice un programa en la plataforma Scratch, relacionado con los contenidos curriculares de la asignatura Física y Química. La práctica está destinada a desarrollar el pensamiento computacional en el alumnado. En este informe, se expone el contexto y el guion para el alumnado. Por último, se responde a las preguntas planteadas.
